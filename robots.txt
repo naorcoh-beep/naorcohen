@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://naorcoh-beep.github.io/naorcohen/sitemap.xml
